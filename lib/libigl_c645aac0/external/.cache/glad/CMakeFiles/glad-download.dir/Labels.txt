@@ -1,0 +1,14 @@
+# Target labels
+ glad-download
+# Source files and their labels
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glad/CMakeFiles/glad-download
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glad/CMakeFiles/glad-download.rule
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glad/CMakeFiles/glad-download-complete.rule
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-install.rule
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-mkdir.rule
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-download.rule
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-update.rule
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-patch.rule
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-configure.rule
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-build.rule
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/glad-download-test.rule

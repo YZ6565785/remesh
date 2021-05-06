@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glfw/CMakeFiles/glfw-download"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glfw/CMakeFiles/glfw-download.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glfw/CMakeFiles/glfw-download-complete.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-install.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-mkdir.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-download.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-update.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-patch.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-configure.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-build.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/glfw/glfw-download-prefix/src/glfw-download-stamp/glfw-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-download"
+		],
+		"name" : "glfw-download"
+	}
+}

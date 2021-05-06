@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/tutorial/503_ARAPParam/main.cpp
+igl/arap.h
+-
+igl/boundary_loop.h
+-
+igl/harmonic.h
+-
+igl/map_vertices_to_circle.h
+-
+igl/readOFF.h
+-
+igl/opengl/glfw/Viewer.h
+-
+tutorial_shared_path.h
+/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/tutorial/503_ARAPParam/tutorial_shared_path.h
+

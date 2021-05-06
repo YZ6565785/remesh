@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/eigen/CMakeFiles/eigen-download"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/eigen/CMakeFiles/eigen-download.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/eigen/CMakeFiles/eigen-download-complete.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/eigen/eigen-download-prefix/src/eigen-download-stamp/eigen-download-install.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/eigen/eigen-download-prefix/src/eigen-download-stamp/eigen-download-mkdir.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/eigen/eigen-download-prefix/src/eigen-download-stamp/eigen-download-download.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/eigen/eigen-download-prefix/src/eigen-download-stamp/eigen-download-update.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/eigen/eigen-download-prefix/src/eigen-download-stamp/eigen-download-patch.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/eigen/eigen-download-prefix/src/eigen-download-stamp/eigen-download-configure.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/eigen/eigen-download-prefix/src/eigen-download-stamp/eigen-download-build.rule"
+		},
+		{
+			"file" : "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/external/.cache/eigen/eigen-download-prefix/src/eigen-download-stamp/eigen-download-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"eigen-download"
+		],
+		"name" : "eigen-download"
+	}
+}

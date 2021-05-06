@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+5ad5c7b8990b580b6a1d8491d049d580 CMakeFiles/imgui-download
+8a5971581a7dcbce1a90a74660925c2b CMakeFiles/imgui-download-complete
+539b239b1acacfed42e2efa312cf7f6d imgui-download-prefix/src/imgui-download-stamp/imgui-download-build
+45d698b8b612adede789bb641b9d75a7 imgui-download-prefix/src/imgui-download-stamp/imgui-download-configure
+4c506eb9151bd0a7fc3d2c72dc942beb imgui-download-prefix/src/imgui-download-stamp/imgui-download-download
+a34c9fed7ca7879048d6db94c371e9ef imgui-download-prefix/src/imgui-download-stamp/imgui-download-install
+a7cd8f4e3fd4cf215a66e21cade1a1e9 imgui-download-prefix/src/imgui-download-stamp/imgui-download-mkdir
+882f922673b9d3aa4457a0442ecd6e01 imgui-download-prefix/src/imgui-download-stamp/imgui-download-patch
+a91c587b37ec6c5a299672801c9e6d2b imgui-download-prefix/src/imgui-download-stamp/imgui-download-test
+5f203f5c6f57af416f8e4f527f081abc imgui-download-prefix/src/imgui-download-stamp/imgui-download-update
