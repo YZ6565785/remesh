@@ -8,8 +8,8 @@ project(libigl-imgui-download NONE)
 include(ExternalProject)
 ExternalProject_Add(libigl-imgui-download
                     TLS_VERIFY;OFF;GIT_CONFIG;advice.detachedHead=false;GIT_REPOSITORY;https://github.com/libigl/libigl-imgui.git;GIT_TAG;07ecd3858acc71e70f0f9b2dea20a139bdddf8ae
-                    SOURCE_DIR          "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/lib/libigl_c645aac0/cmake/../external/libigl-imgui"
-                    BINARY_DIR          "/Users/yuhangzhang/Desktop/UCL/courses/Term2/COMP0119_Acquisition_and_Processing_of_3D_Geometry/final_project/build/libigl-imgui-build"
+                    SOURCE_DIR          "/home/yuhang/Desktop/COMP0119/final_project/lib/libigl_c645aac0/cmake/../external/libigl-imgui"
+                    BINARY_DIR          "/home/yuhang/Desktop/COMP0119/final_project/build/libigl-imgui-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""
